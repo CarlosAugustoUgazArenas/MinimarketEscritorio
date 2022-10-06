@@ -19,5 +19,7 @@ public class MinimarketEscritorio {
     public static void main(String[] args) {
         CategoriaInt<Categoria> datos = new CategoriaImpl();
         System.out.println(datos.listar("").size());
+        //git config  user.email "uarenascarlosau@crece.uss.edu.pe"
+        //git config  user.name "CarlosUgaz"
     }
 }

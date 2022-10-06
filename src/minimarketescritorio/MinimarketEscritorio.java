@@ -21,5 +21,6 @@ public class MinimarketEscritorio {
         System.out.println(datos.listar("").size());
         //git config  user.email "uarenascarlosau@crece.uss.edu.pe"
         //git config  user.name "CarlosUgaz"
+        
     }
 }
